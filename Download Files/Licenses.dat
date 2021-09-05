@@ -1,0 +1,226 @@
+################################################################################
+#
+# LicenseID:    112073
+# Customer:     IPG Automotive Korea Ltd.
+# Contact:
+# End Customer: Incheon National University
+#
+################################################################################
+### User:
+
+Product CarMaker/GUI
+        SerialNo        664381
+        Version         10.0
+        Feature         PSM pro car mcycle
+        Host            desktop-o8vvb15 sysid 307178130 ether 70:85:C2:F8:F5:7E
+        Expiration      2021-10-31
+        Password        0188-8I88-Z27U
+
+Product CarMaker
+        SerialNo        664381
+        Version         10.0
+        Feature         pro car mcycle
+        Host            desktop-o8vvb15 sysid 307178130 ether 70:85:C2:F8:F5:7E
+        Expiration      2021-10-31
+        Password        017E-ZZ2U-C418
+
+Product ipg-movie
+        SerialNo        664381
+        Version         10.0
+        Feature         PSM
+        Host            desktop-o8vvb15 sysid 307178130 ether 70:85:C2:F8:F5:7E
+        Expiration      2021-10-31
+        Password        019C-A593-UI41
+
+Product ipg-control
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-o8vvb15 sysid 307178130 ether 70:85:C2:F8:F5:7E
+        Expiration      2021-10-31
+        Password        01IC-2257-18C7
+
+Product MovieNX
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-o8vvb15 sysid 307178130 ether 70:85:C2:F8:F5:7E
+        Expiration      2021-10-31
+        Password        013U-ZIZ8-E2Z8
+
+Product GPUSensor
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-o8vvb15 sysid 307178130 ether 70:85:C2:F8:F5:7E
+        Expiration      2021-10-31
+        Password        0142-119I-Z23I
+
+Product CM-PSM
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-o8vvb15 sysid 307178130 ether 70:85:C2:F8:F5:7E
+        Expiration      2021-10-31
+        Password        01A5-1EA1-9881
+
+################################################################################
+### User:
+
+Product CarMaker/GUI
+        SerialNo        664381
+        Version         10.0
+        Feature         PSM pro car mcycle
+        Host            desktop-lc6sooo sysid 306391607 ether 00:0E:C6:8E:30:62
+        Expiration      2021-10-31
+        Password        019A-8I18-U0UU
+
+Product CarMaker
+        SerialNo        664381
+        Version         10.0
+        Feature         pro car mcycle
+        Host            desktop-lc6sooo sysid 306391607 ether 00:0E:C6:8E:30:62
+        Expiration      2021-10-31
+        Password        0120-Z149-069Z
+
+Product ipg-movie
+        SerialNo        664381
+        Version         10.0
+        Feature         PSM
+        Host            desktop-lc6sooo sysid 306391607 ether 00:0E:C6:8E:30:62
+        Expiration      2021-10-31
+        Password        015I-8E26-A254
+
+Product ipg-control
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-lc6sooo sysid 306391607 ether 00:0E:C6:8E:30:62
+        Expiration      2021-10-31
+        Password        0101-Z785-5725
+
+Product MovieNX
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-lc6sooo sysid 306391607 ether 00:0E:C6:8E:30:62
+        Expiration      2021-10-31
+        Password        01U4-282A-8I6A
+
+Product GPUSensor
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-lc6sooo sysid 306391607 ether 00:0E:C6:8E:30:62
+        Expiration      2021-10-31
+        Password        0198-E44Z-CIAZ
+
+Product CM-PSM
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-lc6sooo sysid 306391607 ether 00:0E:C6:8E:30:62
+        Expiration      2021-10-31
+        Password        017Z-E973-I713
+
+################################################################################
+### User:
+
+Product CarMaker/GUI
+        SerialNo        664381
+        Version         10.0
+        Feature         PSM pro car mcycle
+        Host            desktop-pkf1fn4 sysid 307078746 ether F4:D1:08:18:9D:63
+        Expiration      2021-10-31
+        Password        0109-1205-4E53
+
+Product CarMaker
+        SerialNo        664381
+        Version         10.0
+        Feature         pro car mcycle
+        Host            desktop-pkf1fn4 sysid 307078746 ether F4:D1:08:18:9D:63
+        Expiration      2021-10-31
+        Password        0108-678E-18ZA
+
+Product ipg-movie
+        SerialNo        664381
+        Version         10.0
+        Feature         PSM
+        Host            desktop-pkf1fn4 sysid 307078746 ether F4:D1:08:18:9D:63
+        Expiration      2021-10-31
+        Password        014C-7011-A883
+
+Product ipg-control
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-pkf1fn4 sysid 307078746 ether F4:D1:08:18:9D:63
+        Expiration      2021-10-31
+        Password        0143-7697-I477
+
+Product MovieNX
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-pkf1fn4 sysid 307078746 ether F4:D1:08:18:9D:63
+        Expiration      2021-10-31
+        Password        01A6-A938-0U38
+
+Product GPUSensor
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-pkf1fn4 sysid 307078746 ether F4:D1:08:18:9D:63
+        Expiration      2021-10-31
+        Password        01IA-455I-3UZI
+
+Product CM-PSM
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-pkf1fn4 sysid 307078746 ether F4:D1:08:18:9D:63
+        Expiration      2021-10-31
+        Password        013I-4861-5441
+
+################################################################################
+### User:
+
+Product CarMaker/GUI
+        SerialNo        664381
+        Version         10.0
+        Feature         PSM pro car mcycle
+        Host            desktop-a87ehsn sysid 306916537 ether D0:C6:37:E5:AA:5B
+        Expiration      2021-10-31
+        Password        0177-A4Z3-4465
+
+Product CarMaker
+        SerialNo        664381
+        Version         10.0
+        Feature         pro car mcycle
+        Host            desktop-a87ehsn sysid 306916537 ether D0:C6:37:E5:AA:5B
+        Expiration      2021-10-31
+        Password        0120-26EE-71CA
+
+Product ipg-movie
+        SerialNo        664381
+        Version         10.0
+        Feature         PSM
+        Host            desktop-a87ehsn sysid 306916537 ether D0:C6:37:E5:AA:5B
+        Expiration      2021-10-31
+        Password        01CA-609C-0949
+
+Product ipg-control
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-a87ehsn sysid 306916537 ether D0:C6:37:E5:AA:5B
+        Expiration      2021-10-31
+        Password        01Z7-6AC6-5E76
+
+Product MovieNX
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-a87ehsn sysid 306916537 ether D0:C6:37:E5:AA:5B
+        Expiration      2021-10-31
+        Password        0112-C519-8639
+
+Product GPUSensor
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-a87ehsn sysid 306916537 ether D0:C6:37:E5:AA:5B
+        Expiration      2021-10-31
+        Password        016U-597E-C6ZE
+
+Product CM-PSM
+        SerialNo        664381
+        Version         10.0
+        Host            desktop-a87ehsn sysid 306916537 ether D0:C6:37:E5:AA:5B
+        Expiration      2021-10-31
+        Password        0189-5440-IE40
